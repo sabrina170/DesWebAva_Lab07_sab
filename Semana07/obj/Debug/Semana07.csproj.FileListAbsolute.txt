@@ -1,0 +1,6 @@
+C:\Users\SABRINA\source\repos\Semana07\Semana07\bin\Debug\Semana07.exe.config
+C:\Users\SABRINA\source\repos\Semana07\Semana07\bin\Debug\Semana07.exe
+C:\Users\SABRINA\source\repos\Semana07\Semana07\bin\Debug\Semana07.pdb
+C:\Users\SABRINA\source\repos\Semana07\Semana07\obj\Debug\Semana07.csprojAssemblyReference.cache
+C:\Users\SABRINA\source\repos\Semana07\Semana07\obj\Debug\Semana07.exe
+C:\Users\SABRINA\source\repos\Semana07\Semana07\obj\Debug\Semana07.pdb
